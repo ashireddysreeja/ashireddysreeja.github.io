@@ -1,40 +1,45 @@
 🚀 Welcome to My GitHub Portfolio!
-👋 Hi, I'm Sreeja Ashireddygari. I'm a passionate and driven software developer with a strong foundation in front-end and back-end development. I'm a recent graduate of Algoma University, Canada, and I actively contribute to open-source projects while continuously expanding my skills. I aspire to create impactful software solutions and thrive in the ever-evolving IT industry.
+👋 Hi, I’m Sreeja (Ashireddy Sreeja)
 
-🛠️ Skills & Technologies
-Frontend: HTML, CSS, JavaScript, React.js
-Backend: Node.js, Express.js, Python, Django
-Databases: MySQL, MongoDB
+💻 Test Engineer | Passionate about Software Quality & Automation | Exploring QA, DevOps & Cloud 🚀
+
+🧑‍💻 About Me
+
+I am a Test Engineer with a strong interest in software quality assurance and automation testing. I enjoy ensuring applications are bug-free, reliable, and user-friendly, while continuously learning new tools and technologies to grow as a QA professional.
+
+🔍 Skilled in manual & automation testing
+
+🛠 Experienced with Selenium, JUnit, TestNG, Postman
+
+📊 Knowledge of SQL, API Testing, and Agile Methodologies
+
+☁️ Learning Azure Fundamentals & DevOps practices
+
+🎯 Goal: To advance into a QA Automation Engineer / SDET role
+
+🛠️ Tech & Tools
+
+Languages: Java, Python (basic)
+
+Testing Tools: Selenium, TestNG, JUnit, Postman, JIRA
+
+Databases: MySQL, SQL Server
+
 Version Control: Git, GitHub
-Other Tools: Docker, Postman, Figma
-📂 Projects
-1. Open Source Contribution: [Project Name]
-Description: Contributed to a [brief description of the open-source project, e.g., "community-driven code editor built for collaboration."]
-Role: Added features, fixed bugs, and improved documentation.
-Link: Repository Link
-2. Portfolio Website
-Description: Developed a personal portfolio website to showcase projects and skills.
-Tech Stack: React.js, TailwindCSS, Vercel.
-Highlights:
-Responsive design optimized for all devices.
-Integrated contact form using EmailJS.
-Link: Live Demo | Code
-3. Blog Management System
-Description: A backend-driven blog platform with CRUD operations.
-Tech Stack: Node.js, Express.js, MongoDB.
-Highlights:
-User authentication with JWT.
-RESTful API structure.
-Link: Repository Link
-4. Task Tracker App
-Description: A simple task tracker with a calendar view for deadlines.
-Tech Stack: React.js, Firebase.
-Highlights:
-Real-time updates via Firebase Firestore.
-Smooth animations and transitions using Framer Motion.
-Link: Live Demo | Code
+
+Other: Agile/Scrum, API Testing, O365 Tools
+
+📂 Featured Projects
+
+🔹 Automated Login Test with Selenium
+ – A sample automation framework for login functionality.
+🔹 API Testing Collection
+ – Postman collection with test cases for REST APIs.
+🔹 Bug Tracking Demo
+ – Example of bug reporting and defect lifecycle documentation.
+
 🌟 Open to Opportunities
-I actively seek roles in software development, web development, or open-source projects. Please feel free to contact me for collaboration or career opportunities.
+I actively seek roles as a software test engineer, QA Engineer, Automation Engineer,  or open-source project. Please don't hesitate to contact me for collaboration or career opportunities.
 
 📫 How to Reach Me
 Email: sreejaashireddy@gmail.com
