@@ -33,8 +33,10 @@ Other: Agile/Scrum, API Testing, O365 Tools
 
 🔹 Automated Login Test with Selenium
  – A sample automation framework for login functionality.
+ 
 🔹 API Testing Collection
  – Postman collection with test cases for REST APIs.
+ 
 🔹 Bug Tracking Demo
  – Example of bug reporting and defect lifecycle documentation.
 
