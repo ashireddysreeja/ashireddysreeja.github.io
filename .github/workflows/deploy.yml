@@ -29,7 +29,7 @@ jobs:
 
       # Renames porfolio.html to index.html so GitHub Pages can discover it as the homepage
       - name: Prepare Homepage File
-        run: cp porfolio.html index.html
+        run: cp portfolio.html index.html
 
       - name: Package Static Files
         uses: actions/upload-pages-artifact@v3
