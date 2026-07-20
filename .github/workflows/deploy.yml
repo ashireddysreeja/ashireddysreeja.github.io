@@ -3,7 +3,7 @@ name: Deploy Portfolio to GitHub Pages
 on:
   push:
     branches:
-      - main
+      - main  # Triggers the deployment automatically whenever you push code here
 
 permissions:
   contents: read
@@ -27,14 +27,10 @@ jobs:
       - name: Setup GitHub Pages Environment
         uses: actions/configure-pages@v5
 
-      # Renames porfolio.html to index.html so GitHub Pages can discover it as the homepage
-      - name: Prepare Homepage File
-        run: cp portfolio.html index.html
-
       - name: Package Static Files
         uses: actions/upload-pages-artifact@v3
         with:
-          path: '.'
+          path: '.'  # Uploads your index.html directly from the root folder
 
       - name: Deploy Production Files to Live Site
         id: deployment
